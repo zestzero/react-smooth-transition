@@ -6,7 +6,7 @@ import './app.scss';
 export class App extends React.Component {
     render() {
         return (
-            <div> TEST 12</div>
+            <div>TEST</div>
         );
     }
 }
